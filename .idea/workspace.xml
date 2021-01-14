@@ -113,6 +113,7 @@
       <workItem from="1607785137205" duration="1702000" />
       <workItem from="1607949120249" duration="749000" />
       <workItem from="1610498367501" duration="1548000" />
+      <workItem from="1610584286297" duration="1530000" />
     </task>
     <servers />
   </component>
@@ -132,4 +133,12 @@
       </map>
     </option>
   </component>
+<<<<<<< Updated upstream
+=======
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加到i" />
+    <MESSAGE value="添加到k" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加到k" />
+  </component>
+>>>>>>> Stashed changes
 </project>
