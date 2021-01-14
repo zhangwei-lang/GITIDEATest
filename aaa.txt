@@ -3,7 +3,9 @@ bbbbb
 ccccc edit by hot_fix
 ddddd edit by hot_fix
 ddddd edit by main
+idea 切换分支到hot_fix
 destop commit
 commit password
 ffffff
 test ssh
+

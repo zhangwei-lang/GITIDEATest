@@ -1,0 +1,15 @@
+Index: aaa.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>aaaaa\r\nbbbbb\r\nccccc edit by hot_fix\r\nddddd edit by hot_fix\r\nddddd edit by main\r\n\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- aaa.txt	(date 1610510677000)
++++ aaa.txt	(date 1610586772348)
+@@ -3,4 +3,5 @@
+ ccccc edit by hot_fix
+ ddddd edit by hot_fix
+ ddddd edit by main
++idea 切换分支到hot_fix
+ 
